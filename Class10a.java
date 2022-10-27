@@ -7,6 +7,9 @@ public class Class10a {
 		aaa.setN(2);
 		aaa.setD(5);
 		aaa.show();
+		CRational bbb = new CRational();
+		bbb.setND(3,4);
+		bbb.show();
 	}
 }
 
